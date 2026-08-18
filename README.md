@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Mohamed
 
-<!--
-**M0h4m3d-W/M0h4m3d-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an actuarial science and AI student passionate about using Machine Learning for advanced risk analysis and predictive modeling.
 
-Here are some ideas to get you started:
+### Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Licence d'Excellence en Actuariat et Intelligence Artificielle**
+- **Licence Fondamentale en Gestion**
+
+### What I'm into
+
+- **Actuarial Science & Risk Analysis:** Building robust models to predict and manage financial and insurance risks.
+- **Machine Learning & AI:** Applying algorithms to create interpretable, high-performance predictive models.
+- **AI Productivity:** Implementing smart AI tools to elevate workflow efficiency and automate complex tasks.
